@@ -1,6 +1,6 @@
 {
   "name": "agk-soundobject",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Wrapper around Howler to allow preloading into memory, mainly used for audio games",
   "main": "index.js",
   "scripts": {
